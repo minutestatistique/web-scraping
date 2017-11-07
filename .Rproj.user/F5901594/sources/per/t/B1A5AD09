@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1510036156444.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2405938607",
+    "id" : "B1A5AD09",
+    "lastKnownWriteTime" : 1510037861,
+    "last_content_update" : 1510037861609,
+    "path" : "C:/Users/Maison/Desktop/web-scraping/src/R/lbc.R",
+    "project_path" : "src/R/lbc.R",
+    "properties" : {
+        "cursorPosition" : "21,6",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
